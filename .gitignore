@@ -1,8 +1,6 @@
 # Logs directory
 logs/
 
-# Data directory (PDF uploads)
-data/*.pdf
 
 # Model cache
 .cache/
